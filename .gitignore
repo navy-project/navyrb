@@ -1,0 +1,6 @@
+errors.err
+.cadre
+.bundle
+*.swp
+coverage
+pkg
