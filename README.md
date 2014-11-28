@@ -1,6 +1,7 @@
 # Navyrb
 
-TODO: Write a gem description
+Navy library to talk to navy services from ruby
+
 
 ## Installation
 
@@ -17,10 +18,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install navyrb
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
