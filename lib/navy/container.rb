@@ -4,7 +4,7 @@ class Navy::Container
   def initialize(options = {})
     @specification = options[:specification] || {}
     @dependencies = options[:dependencies] || []
-    @logger = options[:logger] || Navy::Logger.new
+    @logger = options[:logger] || Navy::Logger.new(:channel => "navyrb")
   end
 
   def daemon?
